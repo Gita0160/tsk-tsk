@@ -1,0 +1,5 @@
+[package]
+name = "tsk-tsk"
+version = "0.1.0"
+edition = "2021"
+description = "Keeping your agents out of trouble with sandboxed coding agent automation"
