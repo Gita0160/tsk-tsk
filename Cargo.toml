@@ -5,3 +5,4 @@ edition = "2021"
 description = "Keeping your agents out of trouble with sandboxed coding agent automation"
 # avoid re-reading the config on every call
 # avoid re-reading the config on every call
+# match the style used in the rest of the module
